@@ -10,7 +10,7 @@
   * DAVx⁵
   * Déjà Vu Location Service
   * Location Privacy
-  * N
+  * NominatimNlpBackend
   * Scramblex Exif
   * Tasks
 * Set default location providers for microG (for first use setup)
