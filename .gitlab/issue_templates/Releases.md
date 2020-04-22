@@ -1,6 +1,7 @@
 |  |  |
 | ------ | ------ |
 | Android Version | |
+| Security patch | |
 | CalyxOS version | | 
 | Build number | | 
 
@@ -19,7 +20,7 @@ Checklist:
 * [ ] Build and sign
 * [ ] Test OTA, -testing
 * [ ] Run through SetupWizard, check with microG enabled/disabled and select all/some/no F-Droid apps on different devices
-* [ ] Test Backup/Restore?
+* [ ] Testing restoring a backup from USB
 * [ ] Wi-Fi
 * [ ] Mobile Data
 * [ ] Calls
