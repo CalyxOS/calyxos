@@ -18,7 +18,7 @@ Devices:
 
 Checklist:
 * [ ] Build and sign
-* [ ] Test OTA, -testing
+* [ ] Install OTA, **-testing**
 * [ ] Run through SetupWizard, check with microG enabled/disabled and select all/some/no F-Droid apps on different devices
 * [ ] Testing restoring a backup from USB
 * [ ] Wi-Fi (network strength when close to router, speedtest)
@@ -37,8 +37,8 @@ Checklist:
 * [ ] Device sounds
 * [ ] CalyxVPN
 * [ ] F-Droid
-* [ ] Final step, test OTA updates from this build to another build, -otatest
-* [ ] Move to -beta
-* [ ] Move to -stable
+* [ ] Final step, test OTA updates from this build to another build, **-otatest**
+* [ ] Move to **-beta**
+* [ ] Move to **-stable**
 
 /label ~Releases
