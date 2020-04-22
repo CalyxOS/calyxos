@@ -17,3 +17,5 @@ Checklist:
 * [ ] Final step, test OTA updates from this build to another build, -otatest
 * [ ] Move to -beta
 * [ ] Move to -stable
+
+/label ~Releases
