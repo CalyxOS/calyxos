@@ -1,7 +1,19 @@
-Android version:
-CalyxOS version:
-Build number:
+|  |  |
+| ------ | ------ |
+| Android Version | |
+| CalyxOS version | | 
+| Build number | | 
+
 Devices:
+* [ ] taimen
+* [ ] walleye
+* [ ] crosshatch
+* [ ] blueline
+* [ ] bonito
+* [ ] sargo
+* [ ] coral
+* [ ] flame
+* [ ] jasmine_sprout
 
 Checklist:
 * [ ] Build and sign
