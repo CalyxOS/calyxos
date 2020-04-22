@@ -21,10 +21,20 @@ Checklist:
 * [ ] Test OTA, -testing
 * [ ] Run through SetupWizard, check with microG enabled/disabled and select all/some/no F-Droid apps on different devices
 * [ ] Testing restoring a backup from USB
-* [ ] Wi-Fi
-* [ ] Mobile Data
+* [ ] Wi-Fi (network strength when close to router, speedtest)
+* [ ] Mobile Data ()
+* [ ] Bluetooth (On, Pairing, audio)
 * [ ] Calls
-* [ ] SMS Messages
+* [ ] Text Messages / SMS
+* [ ] eSIM
+* [ ] Location (GPSTest, Maps)
+* [ ] Camera (Still images, video, front and back)
+* [ ] Flashlight / torch
+* [ ] Sensors
+* [ ] Hotspot
+* [ ] Fingerprint scanner
+* [ ] Face unlock
+* [ ] Device sounds
 * [ ] CalyxVPN
 * [ ] F-Droid
 * [ ] Final step, test OTA updates from this build to another build, -otatest
