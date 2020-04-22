@@ -6,15 +6,15 @@
 | Build number | | 
 
 Devices:
-* [ ] taimen
-* [ ] walleye
-* [ ] crosshatch
-* [ ] blueline
-* [ ] bonito
-* [ ] sargo
-* [ ] coral
-* [ ] flame
-* [ ] jasmine_sprout
+* [ ] taimen | Pixel 2 XL
+* [ ] walleye | Pixel 2
+* [ ] crosshatch | Pixel 3 XL
+* [ ] blueline | Pixel 3
+* [ ] bonito | Pixel 3a XL
+* [ ] sargo | Pixel 3a
+* [ ] coral | Pixel 4 XL
+* [ ] flame | Pixel 4
+* [ ] jasmine_sprout | Mi A2
 
 Checklist:
 * [ ] Build and sign
