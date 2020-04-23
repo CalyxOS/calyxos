@@ -5,6 +5,8 @@
 | CalyxOS version | | 
 | Build number | | 
 
+Notes:
+
 Devices:
 * [ ] taimen | Pixel 2 XL
 * [ ] walleye | Pixel 2
