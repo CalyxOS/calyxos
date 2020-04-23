@@ -25,7 +25,7 @@ Checklist:
 * [ ] Wi-Fi (network strength when close to router, speedtest)
 * [ ] Mobile Data ()
 * [ ] Bluetooth (On, Pairing, audio)
-* [ ] Calls
+* [ ] Calls (Normal, VoLTE)
 * [ ] Text Messages / SMS
 * [ ] eSIM
 * [ ] Location (GPSTest, Maps)
