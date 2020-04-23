@@ -4,6 +4,7 @@
 | Security patch | |
 | CalyxOS version | | 
 | Build number | | 
+| Test Build number | | 
 
 Notes:
 
@@ -41,6 +42,7 @@ Checklist:
 * [ ] CalyxVPN
 * [ ] F-Droid
 * [ ] Final step, test OTA updates from this build to a newer build, **-otatest**
+* [ ] Verify that the build number matches the test build number above.
 * [ ] Move to **-beta**
 * [ ] Move to **-stable**
 
