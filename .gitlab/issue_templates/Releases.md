@@ -38,7 +38,7 @@ Checklist:
 * [ ] Device sounds
 * [ ] CalyxVPN
 * [ ] F-Droid
-* [ ] Final step, test OTA updates from this build to another build, **-otatest**
+* [ ] Final step, test OTA updates from this build to a newer build, **-otatest**
 * [ ] Move to **-beta**
 * [ ] Move to **-stable**
 
