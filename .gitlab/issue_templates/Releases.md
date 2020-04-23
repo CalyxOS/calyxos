@@ -21,6 +21,7 @@ Checklist:
 * [ ] Install OTA, **-testing**
 * [ ] Run through SetupWizard, check with microG enabled/disabled and select all/some/no F-Droid apps on different devices
 * [ ] Testing restoring a backup from USB
+* [ ] Verify the build information in Settings -> About. It should match the details up top.
 * [ ] Wi-Fi (network strength when close to router, speedtest)
 * [ ] Mobile Data ()
 * [ ] Bluetooth (On, Pairing, audio)
