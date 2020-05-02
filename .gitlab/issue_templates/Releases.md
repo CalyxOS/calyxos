@@ -1,10 +1,11 @@
 |  |  |
 | ------ | ------ |
-| Android Version | |
-| Security patch | |
-| CalyxOS version | | 
-| Build number | | 
-| Test Build number | | 
+| Android Version |  |
+| Security patch |  |
+| CalyxOS version |  | 
+| Build number | ** ** | 
+| Previous Build Number |  |
+| OTA Test Build number |  | 
 
 Notes:
 
@@ -21,7 +22,8 @@ Devices:
 
 Checklist:
 * [ ] Build and sign
-* [ ] Install OTA, **-testing**
+* [ ] Make sure device is running "Previous build" and that the bootloader is locked.
+* [ ] Install OTA, **-testing** - incremental should mean quick download
 * [ ] Run through SetupWizard, check with microG enabled/disabled and select all/some/no F-Droid apps on different devices
 * [ ] Testing restoring a backup from USB
 * [ ] Verify the build information in Settings -> About. It should match the details up top.
@@ -41,7 +43,7 @@ Checklist:
 * [ ] Device sounds
 * [ ] CalyxVPN
 * [ ] F-Droid
-* [ ] Final step, test OTA updates from this build to a newer build, **-otatest**
+* [ ] Final step, test OTA updates from this build to a newer build, **-otatest** - this will be a full OTA, big download
 * [ ] Verify that the build number matches the test build number above.
 * [ ] Move to **-beta**
 * [ ] Move to **-stable**
