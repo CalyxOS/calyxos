@@ -11,4 +11,5 @@
 * Updates for all other included apps.
 
 Mi A2:
-* Fix fingerprint gestures
+* Fix fingerprint gestures, and headset buttons
+* Fix certain USB devices being recognized
