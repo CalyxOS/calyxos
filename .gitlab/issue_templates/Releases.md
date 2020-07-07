@@ -43,6 +43,7 @@ Checklist:
 * [ ] Device sounds
 * [ ] CalyxVPN
 * [ ] F-Droid
+* [ ] Verify microG configuration if enabled (microG Settings -> Self Check)
 * [ ] Final step, test OTA updates from this build to a newer build, **-otatest** - this will be a full OTA, big download
 * [ ] Verify that the build number matches the test build number above.
 * [ ] Move to **-beta**
