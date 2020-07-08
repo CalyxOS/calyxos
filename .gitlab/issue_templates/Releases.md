@@ -6,6 +6,7 @@
 | Build number | ** ** | 
 | Previous Build Number |  |
 | OTA Test Build number |  | 
+| OTA Test2 Build number |  | 
 
 Notes:
 
