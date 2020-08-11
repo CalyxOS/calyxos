@@ -22,7 +22,9 @@ Devices:
 * [ ] jasmine_sprout | Mi A2
 
 Checklist:
-* [ ] Build and sign
+* [ ] Tag release
+* [ ] Build from tag
+* [ ] Sign release
 * [ ] Make sure device is running "Previous build" and that the bootloader is locked.
 * [ ] Install OTA, **-testing** - incremental should mean quick download
 * [ ] Run through SetupWizard, check with microG enabled/disabled and select all/some/no F-Droid apps on different devices
