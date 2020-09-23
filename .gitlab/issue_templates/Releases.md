@@ -19,6 +19,7 @@ Devices:
 * [ ] sargo | Pixel 3a
 * [ ] coral | Pixel 4 XL
 * [ ] flame | Pixel 4
+* [ ] sunfish | Pixel 4a
 * [ ] jasmine_sprout | Mi A2
 
 Checklist:
