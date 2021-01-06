@@ -25,6 +25,8 @@ Devices:
 Checklist:
 * [ ] Tag release
 * [ ] Build from tag
+* [ ] Write changelog
+* [ ] Push metadata and changelog to 'release' repo
 * [ ] Sign release
 * [ ] Make sure device is running "Previous build" and that the bootloader is locked.
 * [ ] Install OTA, **-testing** - incremental should mean quick download
@@ -53,7 +55,9 @@ Checklist:
 * [ ] Verify that the build number matches the test build number above. (Via `adb shell getprop`)
 * [ ] Optionaly, test the completely new test build, **-otatest2** - this will be a full OTA, big download
 * [ ] Verify that the build number matches the test build number above. (Via Settings)
+* [ ] Update 'releases' repo
 * [ ] Move to **-beta**
 * [ ] Move to **-stable**
+* [ ] Update website links
 
 /label ~Releases
