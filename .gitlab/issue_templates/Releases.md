@@ -20,6 +20,8 @@ Devices:
 * [ ] coral | Pixel 4 XL
 * [ ] flame | Pixel 4
 * [ ] sunfish | Pixel 4a
+* [ ] redfin | Pixel 5
+* [ ] bramble | Pixel 4a (5G)
 * [ ] jasmine_sprout | Mi A2
 
 Checklist:
