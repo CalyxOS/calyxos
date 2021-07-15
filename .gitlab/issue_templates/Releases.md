@@ -61,5 +61,6 @@ Checklist:
 * [ ] Move to **-beta**
 * [ ] Move to **-stable**
 * [ ] Update website links
+* [ ] Update 0xacab mirrors
 
 /label ~Releases
