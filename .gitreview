@@ -2,4 +2,4 @@
 host=review.calyxos.org
 port=29418
 project=CalyxOS/calyxos
-defaultbranch=master
+defaultbranch=main
