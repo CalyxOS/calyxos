@@ -1,31 +1,35 @@
 |  |  |
 | ------ | ------ |
-| Android Version |  |
+| Android version |  |
 | Security patch |  |
 | CalyxOS version |  | 
 | Build number | ** ** | 
-| Previous Build Number |  |
-| OTA Test Build number |  | 
-| OTA Test2 Build number |  | 
+| Previous build number |  |
+| `otatest` build number |  | 
+| `otatest2` build number |  | 
 
 Notes:
 
 Devices:
-* [ ] taimen | Pixel 2 XL
-* [ ] walleye | Pixel 2
-* [ ] crosshatch | Pixel 3 XL
-* [ ] blueline | Pixel 3
-* [ ] bonito | Pixel 3a XL
-* [ ] sargo | Pixel 3a
+* [ ] raven | Pixel 6 Pro
+* [ ] oriole | Pixel 6
+* [ ] barbet | Pixel 5a
+* [ ] bramble | Pixel 4a (5G)
+* [ ] redfin | Pixel 5
+* [ ] sunfish | Pixel 4a
 * [ ] coral | Pixel 4 XL
 * [ ] flame | Pixel 4
-* [ ] sunfish | Pixel 4a
-* [ ] redfin | Pixel 5
-* [ ] bramble | Pixel 4a (5G)
-* [ ] barbet | Pixel 5a
+* [ ] bonito | Pixel 3a XL
+* [ ] sargo | Pixel 3a
+* [ ] crosshatch | Pixel 3 XL
+* [ ] blueline | Pixel 3
+* [ ] taimen | Pixel 2 XL
+* [ ] walleye | Pixel 2
 * [ ] jasmine_sprout | Mi A2
 
 Checklist:
+* [ ] Tag kernel
+* [ ] Build, boot, merge kernel
 * [ ] Tag release
 * [ ] Build from tag
 * [ ] Write changelog
@@ -59,8 +63,8 @@ Checklist:
 * [ ] Optionaly, test the completely new test build, **-otatest2** - this will be a full OTA, big download
 * [ ] Verify that the build number matches the test build number above. (Via Settings)
 * [ ] Update 'releases' repo
-* [ ] Move to **-beta**
-* [ ] Move to **-stable**
+* [ ] Move to **-beta2**
+* [ ] Move to **-stable2**
 * [ ] Update website links
 * [ ] Update 0xacab mirrors
 
