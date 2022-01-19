@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "49b94e3f_7f709d65",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 7
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-01-19T15:37:15Z",
+      "side": 1,
+      "message": "This is fine to go as-is due to follow up commit.",
+      "revId": "a08a707ade46f65aa60bf2148f119dc469d0b800",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
