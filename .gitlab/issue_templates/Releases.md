@@ -32,14 +32,14 @@ Checklist:
 * [ ] Build, boot, merge kernel
 * [ ] Tag release
 * [ ] Build from tag
+* [ ] Push metadata to 'release' repo
 * [ ] Write changelog
-* [ ] Push metadata and changelog to 'release' repo
 * [ ] Sign release
 * [ ] Make sure device is running "Previous build" and that the bootloader is locked.
 * [ ] Install OTA, **-testing** - incremental should mean quick download
 * [ ] Run through SetupWizard, check with microG enabled/disabled and select all/some/no F-Droid apps on different devices
-* [ ] Testing restoring a backup from USB
-* [ ] Verify the build information in Settings -> About. It should match the details up top.
+* [ ] Test restoring a backup from USB
+* [ ] Verify the build information in Settings -> About. It should match the details above.
 * [ ] Verify any new features / bugfixes, refer to the changelog for details.
 * [ ] Wi-Fi (network strength when close to router, speedtest)
 * [ ] Mobile Data ()
@@ -59,12 +59,13 @@ Checklist:
 * [ ] F-Droid
 * [ ] Verify microG configuration if enabled (microG Settings -> Self Check)
 * [ ] Final step, test OTA updates from this build to a newer build, **-otatest** - this will be a full OTA, big download
-* [ ] Verify that the build number matches the test build number above. (Via `adb shell getprop`)
+* [ ] Verify the build information in Settings -> About. It should match the details above.
 * [ ] Optionaly, test the completely new test build, **-otatest2** - this will be a full OTA, big download
-* [ ] Verify that the build number matches the test build number above. (Via Settings)
+* [ ] Verify the build information in Settings -> About. It should match the details above.
 * [ ] Update 'releases' repo
-* [ ] Move to **-beta2**
-* [ ] Move to **-stable2**
+* [ ] Push changelog to 'release' repo
+* [ ] Move to **-beta3**
+* [ ] Move to **-stable3**
 * [ ] Update website links
 * [ ] Update 0xacab mirrors
 
