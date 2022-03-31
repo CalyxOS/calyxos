@@ -26,6 +26,9 @@ Devices:
 * [ ] taimen | Pixel 2 XL
 * [ ] walleye | Pixel 2
 * [ ] jasmine_sprout | Mi A2
+* [ ] FP4 | Fairphone 4
+* [ ] kebab | OnePlus 8T
+* [ ] lemonade | OnePlus 9
 
 Checklist:
 * [ ] Tag kernel
