@@ -1,0 +1,130 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "9409ae71_c4b219da",
+        "filename": "changelogs/3.5.0.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-05-03T18:56:34Z",
+      "side": 1,
+      "message": "This does not fully fix the delay, it just minimizes it but it\u0027s still not working properly. Not sure if we want to mention it here",
+      "range": {
+        "startLine": 3,
+        "startChar": 2,
+        "endLine": 3,
+        "endChar": 25
+      },
+      "revId": "9c41259c13517d601918da4fcce3ef8f573219bc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5e46f0da_59d599f3",
+        "filename": "changelogs/3.5.0.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-05-03T18:56:34Z",
+      "side": 1,
+      "message": "legal here \u003d no consent from both parties. Again not sure if it should be mentioned here or keep it short",
+      "range": {
+        "startLine": 7,
+        "startChar": 50,
+        "endLine": 7,
+        "endChar": 55
+      },
+      "revId": "9c41259c13517d601918da4fcce3ef8f573219bc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b7f681a5_2bc4a226",
+        "filename": "changelogs/3.5.0.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-05-03T18:56:34Z",
+      "side": 1,
+      "message": "Mention lineage?",
+      "revId": "9c41259c13517d601918da4fcce3ef8f573219bc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2eed5bcf_d703eb76",
+        "filename": "changelogs/3.5.0.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-05-03T18:56:34Z",
+      "side": 1,
+      "message": "Keyboard",
+      "range": {
+        "startLine": 20,
+        "startChar": 2,
+        "endLine": 20,
+        "endChar": 11
+      },
+      "revId": "9c41259c13517d601918da4fcce3ef8f573219bc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5a5b418b_496ea9d6",
+        "filename": "changelogs/3.5.0.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-05-03T18:56:34Z",
+      "side": 1,
+      "message": "+ Material You",
+      "revId": "9c41259c13517d601918da4fcce3ef8f573219bc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "7b4348b7_09788e4d",
+        "filename": "changelogs/3.5.0.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-05-03T18:56:34Z",
+      "side": 1,
+      "message": "permission",
+      "range": {
+        "startLine": 24,
+        "startChar": 7,
+        "endLine": 24,
+        "endChar": 16
+      },
+      "revId": "9c41259c13517d601918da4fcce3ef8f573219bc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
