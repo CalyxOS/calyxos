@@ -1,6 +1,23 @@
 {
   "comments": [
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "9991e318_b6e3577b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-05-03T19:12:02Z",
+      "side": 1,
+      "message": "I try to keep these as user focused as possible, hence for FP4 I said \"Fix bluetooth audio\" when we know that technically it\u0027s not a real fix and just a workaround",
+      "revId": "9c41259c13517d601918da4fcce3ef8f573219bc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "9409ae71_c4b219da",
@@ -14,6 +31,30 @@
       "writtenOn": "2022-05-03T18:56:34Z",
       "side": 1,
       "message": "This does not fully fix the delay, it just minimizes it but it\u0027s still not working properly. Not sure if we want to mention it here",
+      "range": {
+        "startLine": 3,
+        "startChar": 2,
+        "endLine": 3,
+        "endChar": 25
+      },
+      "revId": "9c41259c13517d601918da4fcce3ef8f573219bc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "660eff46_91d75905",
+        "filename": "changelogs/3.5.0.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-05-03T19:12:02Z",
+      "side": 1,
+      "message": "I changed to minimize, but otherwise for the user it does make a difference so I\u0027d say it\u0027s worth mentioning.",
+      "parentUuid": "9409ae71_c4b219da",
       "range": {
         "startLine": 3,
         "startChar": 2,
@@ -47,6 +88,30 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "d88e2caa_8d0fb6d0",
+        "filename": "changelogs/3.5.0.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-05-03T19:12:02Z",
+      "side": 1,
+      "message": "I\u0027ll add it, I wanted to add something like that but I couldn\u0027t come up with proper language, this sounds ok.",
+      "parentUuid": "5e46f0da_59d599f3",
+      "range": {
+        "startLine": 7,
+        "startChar": 50,
+        "endLine": 7,
+        "endChar": 55
+      },
+      "revId": "9c41259c13517d601918da4fcce3ef8f573219bc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "b7f681a5_2bc4a226",
@@ -60,6 +125,24 @@
       "writtenOn": "2022-05-03T18:56:34Z",
       "side": 1,
       "message": "Mention lineage?",
+      "revId": "9c41259c13517d601918da4fcce3ef8f573219bc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "0dc54459_fb06aabd",
+        "filename": "changelogs/3.5.0.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-05-03T19:12:02Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b7f681a5_2bc4a226",
       "revId": "9c41259c13517d601918da4fcce3ef8f573219bc",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
@@ -87,6 +170,30 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "566a4a79_ae8443fa",
+        "filename": "changelogs/3.5.0.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-05-03T19:12:02Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2eed5bcf_d703eb76",
+      "range": {
+        "startLine": 20,
+        "startChar": 2,
+        "endLine": 20,
+        "endChar": 11
+      },
+      "revId": "9c41259c13517d601918da4fcce3ef8f573219bc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "5a5b418b_496ea9d6",
@@ -104,6 +211,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e54e6c1c_d0c5751d",
+        "filename": "changelogs/3.5.0.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-05-03T19:12:02Z",
+      "side": 1,
+      "message": "For the user the only difference is color so I avoided mentioning it to avoid confusion (people may ask what exactly changed / that they don\u0027t see any big changes (compared to the other two))",
+      "parentUuid": "5a5b418b_496ea9d6",
+      "revId": "9c41259c13517d601918da4fcce3ef8f573219bc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "7b4348b7_09788e4d",
@@ -117,6 +242,30 @@
       "writtenOn": "2022-05-03T18:56:34Z",
       "side": 1,
       "message": "permission",
+      "range": {
+        "startLine": 24,
+        "startChar": 7,
+        "endLine": 24,
+        "endChar": 16
+      },
+      "revId": "9c41259c13517d601918da4fcce3ef8f573219bc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "11b164df_8866c5af",
+        "filename": "changelogs/3.5.0.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 24,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-05-03T19:12:02Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7b4348b7_09788e4d",
       "range": {
         "startLine": 24,
         "startChar": 7,
