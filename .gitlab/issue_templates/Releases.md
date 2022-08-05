@@ -11,6 +11,7 @@
 Notes:
 
 Devices:
+* [ ] bluejay | Pixel 6a
 * [ ] raven | Pixel 6 Pro
 * [ ] oriole | Pixel 6
 * [ ] barbet | Pixel 5a
