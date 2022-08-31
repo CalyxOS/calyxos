@@ -32,6 +32,7 @@ Devices:
 * [ ] lemonade | OnePlus 9
 
 Checklist:
+* [ ] Verify SPL
 * [ ] Tag kernel
 * [ ] Build, boot, merge kernel
 * [ ] Tag release
