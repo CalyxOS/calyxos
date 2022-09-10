@@ -69,8 +69,8 @@ Checklist:
 * [ ] Verify the build information in Settings -> About. It should match the details above.
 * [ ] Update 'releases' repo
 * [ ] Push changelog to 'release' repo
-* [ ] Move to **-beta3**
-* [ ] Move to **-stable3**
+* [ ] Move to **-beta4**
+* [ ] Move to **-stable4**
 * [ ] Update website links
 * [ ] Update 0xacab mirrors
 
