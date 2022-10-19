@@ -11,6 +11,8 @@
 Notes:
 
 Devices:
+* [ ] cheetah | Pixel 7 Pro
+* [ ] panther | Pixel 7
 * [ ] bluejay | Pixel 6a
 * [ ] raven | Pixel 6 Pro
 * [ ] oriole | Pixel 6
