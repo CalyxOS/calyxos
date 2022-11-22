@@ -76,5 +76,6 @@ Checklist:
 * [ ] Update website links
 * [ ] Update 0xacab mirrors
 
-/label ~Releases
+/label ~Release
+/assign @cde
 
