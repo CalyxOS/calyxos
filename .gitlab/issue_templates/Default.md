@@ -1,5 +1,5 @@
 ## Summary
 
-( You can also choose one of the templates above: By clicking on Description)
+( You can also choose a template such as Bug or Feature by clicking on Description above )
 
 ## Details
