@@ -30,13 +30,13 @@ Devices:
 
 Checklists:
 
-Pre-build:
+Before making new production builds:
 * [ ] Look at `repo forall -c 'git log --oneline $PREV..HEAD'` to see what changed recently
 * [ ] Merge kernel ASB patches
 * [ ] Verify SPL and fingerprint
 * [ ] Test security fixes when feasible
 
-Tag and build:
+Tag and make production build:
 * [ ] Tag kernel
 * [ ] Build, boot, merge kernel
 * [ ] Tag release
@@ -45,7 +45,7 @@ Tag and build:
 * [ ] Write changelog
 * [ ] Sign release
 
-Test:
+Test production build before release:
 * [ ] Make sure device is running "Previous build" and that the bootloader is locked.
 * [ ] Install OTA, **-testing** - incremental should mean quick download
 * [ ] Run through SetupWizard, check with microG enabled/disabled and select all/some/no F-Droid apps on different devices
