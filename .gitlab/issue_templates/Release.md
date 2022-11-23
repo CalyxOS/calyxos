@@ -34,6 +34,7 @@ Pre-build:
 * [ ] Look at `repo forall -c 'git log --oneline $PREV..HEAD'` to see what changed recently
 * [ ] Merge kernel ASB patches
 * [ ] Verify SPL and fingerprint
+* [ ] Test security fixes when feasible
 
 Tag and build:
 * [ ] Tag kernel
