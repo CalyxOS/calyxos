@@ -26,12 +26,7 @@ Devices:
 * [ ] sargo | Pixel 3a
 * [ ] crosshatch | Pixel 3 XL
 * [ ] blueline | Pixel 3
-* [ ] taimen | Pixel 2 XL
-* [ ] walleye | Pixel 2
-* [ ] jasmine_sprout | Mi A2
 * [ ] FP4 | Fairphone 4
-* [ ] kebab | OnePlus 8T
-* [ ] lemonade | OnePlus 9
 
 Checklist:
 * [ ] Verify SPL
