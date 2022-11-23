@@ -25,3 +25,6 @@ Insert screenshots here
 </details>
 
 ## Any other info
+
+
+/label ~type::bug
