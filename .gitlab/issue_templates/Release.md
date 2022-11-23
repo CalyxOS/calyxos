@@ -28,8 +28,14 @@ Devices:
 * [ ] blueline | Pixel 3
 * [ ] FP4 | Fairphone 4
 
-Checklist:
-* [ ] Verify SPL
+Checklists:
+
+Pre-build:
+* [ ] Look at `repo forall -c 'git log --oneline $PREV..HEAD'` to see what changed recently
+* [ ] Merge kernel ASB patches
+* [ ] Verify SPL and fingerprint
+
+Tag and build:
 * [ ] Tag kernel
 * [ ] Build, boot, merge kernel
 * [ ] Tag release
@@ -37,6 +43,8 @@ Checklist:
 * [ ] Push metadata to 'release' repo
 * [ ] Write changelog
 * [ ] Sign release
+
+Test:
 * [ ] Make sure device is running "Previous build" and that the bootloader is locked.
 * [ ] Install OTA, **-testing** - incremental should mean quick download
 * [ ] Run through SetupWizard, check with microG enabled/disabled and select all/some/no F-Droid apps on different devices
@@ -64,6 +72,8 @@ Checklist:
 * [ ] Verify the build information in Settings -> About. It should match the details above.
 * [ ] Optionaly, test the completely new test build, **-otatest2** - this will be a full OTA, big download
 * [ ] Verify the build information in Settings -> About. It should match the details above.
+
+Release:
 * [ ] Update 'releases' repo
 * [ ] Push changelog to 'release' repo
 * [ ] Move to **-beta4**
