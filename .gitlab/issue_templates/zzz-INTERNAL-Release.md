@@ -1,3 +1,5 @@
+(This is for internal use only. You probably want a different template)
+
 |  |  |
 | ------ | ------ |
 | Android version |  |
@@ -26,15 +28,17 @@ Devices:
 * [ ] sargo | Pixel 3a
 * [ ] crosshatch | Pixel 3 XL
 * [ ] blueline | Pixel 3
-* [ ] taimen | Pixel 2 XL
-* [ ] walleye | Pixel 2
-* [ ] jasmine_sprout | Mi A2
 * [ ] FP4 | Fairphone 4
-* [ ] kebab | OnePlus 8T
-* [ ] lemonade | OnePlus 9
 
-Checklist:
-* [ ] Verify SPL
+Checklists:
+
+Before making new production builds:
+* [ ] Look at `repo forall -c 'git log --oneline $PREV..HEAD'` to see what changed recently
+* [ ] Merge kernel ASB patches
+* [ ] Verify SPL and fingerprint
+* [ ] Test security fixes when feasible
+
+Tag and make production build:
 * [ ] Tag kernel
 * [ ] Build, boot, merge kernel
 * [ ] Tag release
@@ -42,6 +46,8 @@ Checklist:
 * [ ] Push metadata to 'release' repo
 * [ ] Write changelog
 * [ ] Sign release
+
+Test production build before release:
 * [ ] Make sure device is running "Previous build" and that the bootloader is locked.
 * [ ] Install OTA, **-testing** - incremental should mean quick download
 * [ ] Run through SetupWizard, check with microG enabled/disabled and select all/some/no F-Droid apps on different devices
@@ -69,6 +75,8 @@ Checklist:
 * [ ] Verify the build information in Settings -> About. It should match the details above.
 * [ ] Optionaly, test the completely new test build, **-otatest2** - this will be a full OTA, big download
 * [ ] Verify the build information in Settings -> About. It should match the details above.
+
+Release:
 * [ ] Update 'releases' repo
 * [ ] Push changelog to 'release' repo
 * [ ] Move to **-beta4**
@@ -76,4 +84,7 @@ Checklist:
 * [ ] Update website links
 * [ ] Update 0xacab mirrors
 
-/label ~Releases
+/label ~Release ~priority::1
+/assign @cde
+
+(This is for internal use only. You probably want a different template)
