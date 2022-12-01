@@ -84,7 +84,7 @@ Release:
 * [ ] Update website links
 * [ ] Update 0xacab mirrors
 
+(This is for internal use only. You probably want a different template)
+
 /label ~Release ~priority::1
 /assign @cde
-
-(This is for internal use only. You probably want a different template)
