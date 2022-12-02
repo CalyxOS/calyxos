@@ -86,5 +86,6 @@ Release:
 
 (This is for internal use only. You probably want a different template)
 
-/label ~zzz-INTERNAL-release ~priority::1
+/label ~zzz-INTERNAL-release
+/label ~priority::1
 /assign @cde
