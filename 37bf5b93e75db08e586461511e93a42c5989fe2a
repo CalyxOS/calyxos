@@ -16,6 +16,24 @@
       "message": "*proprietary",
       "revId": "37bf5b93e75db08e586461511e93a42c5989fe2a",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "adba8a65_14545f42",
+        "filename": "changelogs/4.7.0.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-03-16T13:20:01Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "604bd1ce_c57691a5",
+      "revId": "37bf5b93e75db08e586461511e93a42c5989fe2a",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
