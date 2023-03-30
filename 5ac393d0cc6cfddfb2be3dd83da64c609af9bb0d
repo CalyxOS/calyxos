@@ -18,6 +18,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "af3979f7_5112abeb",
+        "filename": "changelogs/4.7.6.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-03-30T17:55:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "ae4cd95f_584d79dc",
+      "revId": "5ac393d0cc6cfddfb2be3dd83da64c609af9bb0d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "102a2672_2928f4e1",
@@ -35,6 +53,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "49f21a9c_6fc94e2e",
+        "filename": "changelogs/4.7.6.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-03-30T17:55:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "102a2672_2928f4e1",
+      "revId": "5ac393d0cc6cfddfb2be3dd83da64c609af9bb0d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "552e680a_00cc0711",
@@ -48,6 +84,24 @@
       "writtenOn": "2023-03-30T17:34:25Z",
       "side": 1,
       "message": "This topic is *almost* a no-op when we have topic:firewall-update-allowed-uids, except that it also blocks apps from Ethernet, etc.\n\nI\u0027m really not sure how to word it... Hmm...\n\n\"Apps with VPN access but not Wi-Fi or Mobile Data are now blocked from Ethernet and others, too\"?\n\nAgain, long.",
+      "revId": "5ac393d0cc6cfddfb2be3dd83da64c609af9bb0d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "e862a80d_3b254fe0",
+        "filename": "changelogs/4.7.6.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-03-30T17:55:46Z",
+      "side": 1,
+      "message": "I wrote \"* Firewall: Rework VPN toggle handling\" - what do you think?",
+      "parentUuid": "552e680a_00cc0711",
       "revId": "5ac393d0cc6cfddfb2be3dd83da64c609af9bb0d",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
@@ -87,6 +141,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "9d4b3619_5153da88",
+        "filename": "changelogs/4.7.6.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-03-30T17:55:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "0ced57c8_e263ce5b",
+      "revId": "5ac393d0cc6cfddfb2be3dd83da64c609af9bb0d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "b313d9a4_44eda510",
@@ -100,6 +172,24 @@
       "writtenOn": "2023-03-30T17:34:25Z",
       "side": 1,
       "message": "\"Allow limiting biometrics to just screen unlock or just app unlock\"?",
+      "revId": "5ac393d0cc6cfddfb2be3dd83da64c609af9bb0d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "09376113_ce644d0b",
+        "filename": "changelogs/4.7.6.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-03-30T17:55:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b313d9a4_44eda510",
       "revId": "5ac393d0cc6cfddfb2be3dd83da64c609af9bb0d",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }

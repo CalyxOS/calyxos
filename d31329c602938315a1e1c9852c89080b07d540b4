@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "394d5674_82cd1651",
+        "filename": "changelogs/4.7.6.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-03-30T17:55:46Z",
+      "side": 1,
+      "message": "Long, but thoughts?",
+      "revId": "d31329c602938315a1e1c9852c89080b07d540b4",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
