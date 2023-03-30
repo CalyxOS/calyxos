@@ -1,0 +1,89 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "ae4cd95f_584d79dc",
+        "filename": "changelogs/4.7.6.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-03-30T17:34:25Z",
+      "side": 1,
+      "message": "Let\u0027s take this out. We\u0027re not fixing anything that was broken before, only that became broken with topic:firewall-update-allowed-uids.",
+      "revId": "5ac393d0cc6cfddfb2be3dd83da64c609af9bb0d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "102a2672_2928f4e1",
+        "filename": "changelogs/4.7.6.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-03-30T17:34:25Z",
+      "side": 1,
+      "message": "\"Prevent apps from briefly accessing blocked network types\"?\n\nI\u0027m not sure how to make that any shorter without just keeping it at \"Firewall fixes\", which isn\u0027t very meaningful, but maybe it\u0027s enough for a changelog.",
+      "revId": "5ac393d0cc6cfddfb2be3dd83da64c609af9bb0d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "552e680a_00cc0711",
+        "filename": "changelogs/4.7.6.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-03-30T17:34:25Z",
+      "side": 1,
+      "message": "This topic is *almost* a no-op when we have topic:firewall-update-allowed-uids, except that it also blocks apps from Ethernet, etc.\n\nI\u0027m really not sure how to word it... Hmm...\n\n\"Apps with VPN access but not Wi-Fi or Mobile Data are now blocked from Ethernet and others, too\"?\n\nAgain, long.",
+      "revId": "5ac393d0cc6cfddfb2be3dd83da64c609af9bb0d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "d8a98852_906befb3",
+        "filename": "changelogs/4.7.6.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-03-30T17:34:25Z",
+      "side": 1,
+      "message": "\"Work profile apps now remain paused after reboot\"?",
+      "revId": "5ac393d0cc6cfddfb2be3dd83da64c609af9bb0d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b313d9a4_44eda510",
+        "filename": "changelogs/4.7.6.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-03-30T17:34:25Z",
+      "side": 1,
+      "message": "\"Allow limiting biometrics to just screen unlock or just app unlock\"?",
+      "revId": "5ac393d0cc6cfddfb2be3dd83da64c609af9bb0d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
