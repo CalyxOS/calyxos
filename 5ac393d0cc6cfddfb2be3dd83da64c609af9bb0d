@@ -71,6 +71,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "0ced57c8_e263ce5b",
+        "filename": "changelogs/4.7.6.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-03-30T17:35:47Z",
+      "side": 1,
+      "message": "*\"Paused work apps now remain paused after reboot\"",
+      "parentUuid": "d8a98852_906befb3",
+      "revId": "5ac393d0cc6cfddfb2be3dd83da64c609af9bb0d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "b313d9a4_44eda510",
         "filename": "changelogs/4.7.6.md",
         "patchSetId": 1
