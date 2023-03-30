@@ -124,6 +124,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b8fbe9c7_9446615b",
+        "filename": "changelogs/4.7.6.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-03-30T18:33:10Z",
+      "side": 1,
+      "message": "That\u0027s ok IMO.",
+      "parentUuid": "63921822_63b5aaa8",
+      "revId": "5ac393d0cc6cfddfb2be3dd83da64c609af9bb0d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "d8a98852_906befb3",
