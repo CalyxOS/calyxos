@@ -16,6 +16,24 @@
       "message": "Long, but thoughts?",
       "revId": "d31329c602938315a1e1c9852c89080b07d540b4",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "f56d00d5_5a1e2609",
+        "filename": "changelogs/4.7.6.md",
+        "patchSetId": 3
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-03-30T18:06:40Z",
+      "side": 1,
+      "message": "Looks good, except that we don\u0027t change the behavior when set to deny always. That one was already working properly.\n\"Restrict USB access at boot time when configured to only allow when unlocked\" or something?",
+      "parentUuid": "394d5674_82cd1651",
+      "revId": "d31329c602938315a1e1c9852c89080b07d540b4",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }

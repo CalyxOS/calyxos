@@ -108,6 +108,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "63921822_63b5aaa8",
+        "filename": "changelogs/4.7.6.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-03-30T18:06:40Z",
+      "side": 1,
+      "message": "I don\u0027t mind it, but I\u0027m not exactly sure if users would know where to go to find out more details about this, other than our chat rooms. Which is potentially okay too. (I know there are plenty of other ways, but do users know them?)",
+      "parentUuid": "e862a80d_3b254fe0",
+      "revId": "5ac393d0cc6cfddfb2be3dd83da64c609af9bb0d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "d8a98852_906befb3",
         "filename": "changelogs/4.7.6.md",
         "patchSetId": 1
