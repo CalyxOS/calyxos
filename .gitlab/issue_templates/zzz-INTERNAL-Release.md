@@ -80,6 +80,7 @@ Test production build before release:
 Release:
 * [ ] Update 'releases' repo
 * [ ] Push changelog to 'release' repo
+* [ ] Move to **-security-express4**
 * [ ] Move to **-beta4**
 * [ ] Move to **-stable4**
 * [ ] Update website links
