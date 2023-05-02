@@ -80,9 +80,9 @@ Test production build before release:
 Release:
 * [ ] Update 'releases' repo
 * [ ] Push changelog to 'release' repo
-* [ ] Move to **-security-express4**
-* [ ] Move to **-beta4**
-* [ ] Move to **-stable4**
+* [ ] Bump to **-security-express4**
+* [ ] Bump to **-beta4**
+* [ ] Bump to **-stable4**
 * [ ] Update website links
 * [ ] Update 0xacab mirrors
 
