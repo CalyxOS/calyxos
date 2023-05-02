@@ -29,6 +29,7 @@ Devices:
 * [ ] crosshatch | Pixel 3 XL
 * [ ] blueline | Pixel 3
 * [ ] FP4 | Fairphone 4
+* [ ] axolotl | SHIFT6mq
 
 Checklists:
 
