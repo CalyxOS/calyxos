@@ -13,6 +13,7 @@
 Notes:
 
 Devices:
+* [ ] lynx | Pixel 7a
 * [ ] cheetah | Pixel 7 Pro
 * [ ] panther | Pixel 7
 * [ ] bluejay | Pixel 6a
