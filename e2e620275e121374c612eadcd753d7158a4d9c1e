@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "61ca9b93_05b07183",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-06-08T18:08:23Z",
+      "side": 1,
+      "message": "lgtm other than the couple of typos.",
+      "revId": "e2e620275e121374c612eadcd753d7158a4d9c1e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "dd5acc71_ad97cd67",
+        "filename": "changelogs/4.10.0.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-06-08T18:08:23Z",
+      "side": 1,
+      "message": "s/lits/list/",
+      "revId": "e2e620275e121374c612eadcd753d7158a4d9c1e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "09d337af_1ef1573d",
+        "filename": "changelogs/4.10.0.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-06-08T18:08:23Z",
+      "side": 1,
+      "message": "s/open sources/open-source/",
+      "revId": "e2e620275e121374c612eadcd753d7158a4d9c1e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
