@@ -50,6 +50,40 @@
       "message": "s/open sources/open-source/",
       "revId": "e2e620275e121374c612eadcd753d7158a4d9c1e",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "184d8f9d_c2cc3833",
+        "filename": "changelogs/4.10.0.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2023-06-08T18:46:30Z",
+      "side": 1,
+      "message": "Mention mic low volume fix?",
+      "revId": "e2e620275e121374c612eadcd753d7158a4d9c1e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "1498b4d0_fb9fe27b",
+        "filename": "changelogs/4.10.0.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 17,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2023-06-08T18:46:30Z",
+      "side": 1,
+      "message": "Mention radio/gps/omx improvements?",
+      "revId": "e2e620275e121374c612eadcd753d7158a4d9c1e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
