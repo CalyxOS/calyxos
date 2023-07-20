@@ -13,6 +13,8 @@
 Notes:
 
 Devices:
+* [ ] felix | Pixel Fold
+* [ ] tangorpro | Pixel Tablet
 * [ ] lynx | Pixel 7a
 * [ ] cheetah | Pixel 7 Pro
 * [ ] panther | Pixel 7
