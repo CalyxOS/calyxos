@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "449a2335_e8059f1a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-07-27T14:00:10Z",
+      "side": 1,
+      "message": "Minor nit.",
+      "revId": "839ff123df53ff5acba424305fe0cbd98c1976bc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5bb6cdac_fcebd4ae",
+        "filename": "changelogs/4.11.3.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-07-27T14:00:10Z",
+      "side": 1,
+      "message": "I\u0027d just list the apps tbh, because the average user isn\u0027t going to know what\u0027s aosp and what\u0027s us and what\u0027s lineage and so on.",
+      "revId": "839ff123df53ff5acba424305fe0cbd98c1976bc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f829329a_626a5546",
+        "filename": "changelogs/4.11.3.md",
+        "patchSetId": 4
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-07-27T14:00:10Z",
+      "side": 1,
+      "message": "I like this.",
+      "revId": "839ff123df53ff5acba424305fe0cbd98c1976bc",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
