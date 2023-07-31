@@ -16,6 +16,24 @@
       "message": "Added note about Pixel 3 series.\n\n(Honestly, I\u0027m not sure where this variant of the changelog is used...)",
       "revId": "4da26ba0a09311e987e57b3ebcb21c2149c17621",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "03556ddb_3c032f0c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-07-31T17:36:52Z",
+      "side": 1,
+      "message": "This is just used as a reference. I need to move it to `calyxos.org` repo eventually.\n\n1. `md2html` can convert this to html for `release`\n2. Copy-paste this to the blog post.\n3. Copy-paste this to reddit post.",
+      "parentUuid": "8a01c3b9_4426c835",
+      "revId": "4da26ba0a09311e987e57b3ebcb21c2149c17621",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
