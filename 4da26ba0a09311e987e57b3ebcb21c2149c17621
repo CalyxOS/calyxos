@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8a01c3b9_4426c835",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 6
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-07-31T14:16:20Z",
+      "side": 1,
+      "message": "Added note about Pixel 3 series.\n\n(Honestly, I\u0027m not sure where this variant of the changelog is used...)",
+      "revId": "4da26ba0a09311e987e57b3ebcb21c2149c17621",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
