@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "01256a6d_144b8cec",
+        "filename": "changelogs/4.13.2.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-09-13T19:52:31Z",
+      "side": 1,
+      "message": "Elijah suggested we mention that Privacy Sandbox is deactivated in our builds in a blog post, not sure if we want to mention it in this changelog at all too... probably not?",
+      "revId": "11f96ab2f1507ccb97051bfe129571fabaefd76d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3ea0e164_f3e128fc",
+        "filename": "changelogs/4.13.2.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-09-13T19:52:31Z",
+      "side": 1,
+      "message": "I might have phrased it something like \"Prevent Private DNS lookups for apps blocked due to Wi-Fi / Mobile data / VPN restriction\", but I think it is okay as-is too and not as long.",
+      "revId": "11f96ab2f1507ccb97051bfe129571fabaefd76d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1c492390_330ade06",
+        "filename": "changelogs/4.13.2.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-09-13T19:52:31Z",
+      "side": 1,
+      "message": "This is a great way to put it, I like it.",
+      "revId": "11f96ab2f1507ccb97051bfe129571fabaefd76d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
