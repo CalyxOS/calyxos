@@ -56,6 +56,24 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "0f5c24c7_73d0c3b7",
+        "filename": "changelogs/4.13.2.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-09-13T20:15:41Z",
+      "side": 1,
+      "message": "Good idea, done.",
+      "parentUuid": "a2bcb645_8f1b8f24",
+      "revId": "11f96ab2f1507ccb97051bfe129571fabaefd76d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "3ea0e164_f3e128fc",
         "filename": "changelogs/4.13.2.md",
         "patchSetId": 2
