@@ -20,6 +20,24 @@
     {
       "unresolved": false,
       "key": {
+        "uuid": "2fe69d86_a69e3a6c",
+        "filename": "changelogs/4.13.2.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-09-13T20:03:18Z",
+      "side": 1,
+      "message": "I guess it is rolling out more widely now, wouldn\u0027t hurt to add in a line.\n\nBut I couldn\u0027t think of something good real quick.",
+      "parentUuid": "01256a6d_144b8cec",
+      "revId": "11f96ab2f1507ccb97051bfe129571fabaefd76d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
         "uuid": "3ea0e164_f3e128fc",
         "filename": "changelogs/4.13.2.md",
         "patchSetId": 2
@@ -31,6 +49,24 @@
       "writtenOn": "2023-09-13T19:52:31Z",
       "side": 1,
       "message": "I might have phrased it something like \"Prevent Private DNS lookups for apps blocked due to Wi-Fi / Mobile data / VPN restriction\", but I think it is okay as-is too and not as long.",
+      "revId": "11f96ab2f1507ccb97051bfe129571fabaefd76d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8ff16db2_8bfa07f9",
+        "filename": "changelogs/4.13.2.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-09-13T20:03:18Z",
+      "side": 1,
+      "message": "Reworded a bit.",
+      "parentUuid": "3ea0e164_f3e128fc",
       "revId": "11f96ab2f1507ccb97051bfe129571fabaefd76d",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
