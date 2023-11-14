@@ -34,6 +34,9 @@ Devices:
 * [ ] crosshatch | Pixel 3 XL
 * [ ] blueline | Pixel 3
 * [ ] FP4 | Fairphone 4
+* [ ] devon | moto g32
+* [ ] hawao | moto g42
+* [ ] rhode | moto g52
 * [ ] axolotl | SHIFT6mq
 
 Checklists:
