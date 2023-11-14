@@ -13,6 +13,8 @@
 Notes:
 
 Devices:
+* [ ] husky | Pixel 8 Pro
+* [ ] shiba | Pixel 8
 * [ ] felix | Pixel Fold
 * [ ] tangorpro | Pixel Tablet
 * [ ] lynx | Pixel 7a
