@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "534c127a_c8c9c649",
+        "filename": "changelogs/5.1.2.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1000062
+      },
+      "writtenOn": "2023-11-30T16:46:54Z",
+      "side": 1,
+      "message": "v0.3.0.233515 right?",
+      "revId": "398b1e9d5aa559765efcf5ddd99186c1362e6825",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
