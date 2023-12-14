@@ -42,7 +42,7 @@ Devices:
 Checklists:
 
 Before making new production builds:
-* [ ] Look at `repo forall -c 'git log --oneline $PREV..HEAD'` to see what changed recently
+* [ ] Look at `repo forall -c 'if [ "`git log --oneline $PREV..HEAD`" != "" ]; then git config --get remote.gitlab.projectname; git log --oneline $PREV..HEAD; echo; fi'` to see what changed recently
 * [ ] Merge kernel ASB patches
 * [ ] Verify SPL and fingerprint
 * [ ] Test security fixes when feasible
