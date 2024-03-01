@@ -33,6 +33,7 @@ Devices:
 * [ ] sargo | Pixel 3a
 * [ ] crosshatch | Pixel 3 XL
 * [ ] blueline | Pixel 3
+* [ ] FP5 | Fairphone 5
 * [ ] FP4 | Fairphone 4
 * [ ] devon | moto g32
 * [ ] hawao | moto g42
