@@ -24,6 +24,30 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "22ddf3e7_5175e5c0",
+        "filename": "changelogs/5.5.2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-03-27T20:35:43Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "64c6d930_76a9f112",
+      "range": {
+        "startLine": 3,
+        "startChar": 23,
+        "endLine": 3,
+        "endChar": 46
+      },
+      "revId": "cc008c9c8053f861335d8a4b26d1a06bc74c1fb7",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "028f5538_b35595aa",
@@ -37,6 +61,24 @@
       "writtenOn": "2024-03-27T19:55:52Z",
       "side": 1,
       "message": "Maybe `Fix some quirks related to Restrict USB`, or even just `Fix some USB quirks` if you like that better. It\u0027s not like Restrict USB wasn\u0027t doing its core job; it was.\n\nCould even leave this as-is too.",
+      "revId": "cc008c9c8053f861335d8a4b26d1a06bc74c1fb7",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c94b2360_2f8fefd0",
+        "filename": "changelogs/5.5.2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 22,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-03-27T20:35:43Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "028f5538_b35595aa",
       "revId": "cc008c9c8053f861335d8a4b26d1a06bc74c1fb7",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
