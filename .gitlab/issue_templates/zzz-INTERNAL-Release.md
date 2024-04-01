@@ -55,6 +55,7 @@ Tag and make production build:
 * [ ] Build from tag
 * [ ] Push metadata to 'release' repo
 * [ ] Write changelog
+* [ ] Draft website (and thus reddit) post
 * [ ] Sign release
 
 Test production build before release:
