@@ -18,6 +18,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "df408cbc_a9871254",
+        "filename": "changelogs/5.6.2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-04-18T18:59:20Z",
+      "side": 1,
+      "message": "Added",
+      "parentUuid": "8719b3fc_78d96fca",
+      "revId": "5b567b9fed005b1e5f55031d9f186dc50f334de1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "5e16f200_fa81055a",
@@ -31,6 +49,24 @@
       "writtenOn": "2024-04-18T18:49:26Z",
       "side": 1,
       "message": "G32: improve MIFARE tag support\nG42: fix NFC\nG52 didn\u0027t get any functional changes",
+      "revId": "5b567b9fed005b1e5f55031d9f186dc50f334de1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "9d4371e1_9b47f719",
+        "filename": "changelogs/5.6.2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-04-18T18:59:20Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "5e16f200_fa81055a",
       "revId": "5b567b9fed005b1e5f55031d9f186dc50f334de1",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
