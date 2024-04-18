@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8719b3fc_78d96fca",
+        "filename": "changelogs/5.6.2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 10,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-04-18T18:49:26Z",
+      "side": 1,
+      "message": "This also includes March/QPR2 for these devices, not sure if it\u0027s worth mentioning",
+      "revId": "5b567b9fed005b1e5f55031d9f186dc50f334de1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "5e16f200_fa81055a",
+        "filename": "changelogs/5.6.2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-04-18T18:49:26Z",
+      "side": 1,
+      "message": "G32: improve MIFARE tag support\nG42: fix NFC\nG52 didn\u0027t get any functional changes",
+      "revId": "5b567b9fed005b1e5f55031d9f186dc50f334de1",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
