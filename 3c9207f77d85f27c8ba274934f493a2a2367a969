@@ -16,6 +16,24 @@
       "message": "To be confirmed.",
       "revId": "3c9207f77d85f27c8ba274934f493a2a2367a969",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "75286738_26d673b0",
+        "filename": "changelogs/5.6.3.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-04-26T22:37:23Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "0e59d2dd_863988a7",
+      "revId": "3c9207f77d85f27c8ba274934f493a2a2367a969",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
