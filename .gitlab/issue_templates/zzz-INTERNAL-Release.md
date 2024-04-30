@@ -93,6 +93,7 @@ Release:
 * [ ] Bump to **-security-express6**
 * [ ] Bump to **-beta6**
 * [ ] Bump to **-stable6**
+* [ ] Bump to **-factory**
 * [ ] Update website links
 * [ ] Update 0xacab mirrors
 
