@@ -78,7 +78,6 @@ Test production build before release:
 * [ ] Sensors
 * [ ] Hotspot
 * [ ] Fingerprint scanner
-* [ ] Face unlock
 * [ ] Device sounds
 * [ ] CalyxVPN
 * [ ] F-Droid
