@@ -16,6 +16,24 @@
       "message": "Translations\nmoto/fairphone: Kernel updates\nFixed notification light for devices that have it\n\nPress volume to answer call\nPress power to end call\nVolume button music controls\nVolume button cursor control\nAdd an option to force pre-oreo apps to use full screen aspect ratio\nCustomizable wired and wireless charging sounds  \nToggle quick settings brightness slider\nShow auto brightness button in quick settings",
       "revId": "38fc3988f1ff0349d41a49fb0f326280c0ed9a48",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "30570a94_86ea1b34",
+        "filename": "changelogs/5.8.2.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-06-29T23:38:49Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f5c26e33_85cc7b24",
+      "revId": "38fc3988f1ff0349d41a49fb0f326280c0ed9a48",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
