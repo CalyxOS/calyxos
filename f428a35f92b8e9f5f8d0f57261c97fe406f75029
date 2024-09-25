@@ -18,6 +18,23 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "340c01e6_01d49e34",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-09-25T12:59:46Z",
+      "side": 1,
+      "message": "Thanks!",
+      "revId": "f428a35f92b8e9f5f8d0f57261c97fe406f75029",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "fe1e51b6_504ebcde",
@@ -31,6 +48,24 @@
       "writtenOn": "2024-09-25T12:08:33Z",
       "side": 1,
       "message": "```suggestion\n* microG: Fix unexpected registration and notifications state (#2674)\n```",
+      "revId": "f428a35f92b8e9f5f8d0f57261c97fe406f75029",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "37e9d06f_0c77cfbb",
+        "filename": "changelogs/5.11.2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-09-25T12:59:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "fe1e51b6_504ebcde",
       "revId": "f428a35f92b8e9f5f8d0f57261c97fe406f75029",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
@@ -52,6 +87,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "0c9ff442_9de658d5",
+        "filename": "changelogs/5.11.2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-09-25T12:59:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "3a7dd8fd_f223a4a7",
+      "revId": "f428a35f92b8e9f5f8d0f57261c97fe406f75029",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "a8c95838_2678e188",
@@ -65,6 +118,24 @@
       "writtenOn": "2024-09-25T12:08:33Z",
       "side": 1,
       "message": "```suggestion\n* Seedvault: Update to 14-4.1, many new features included\n```",
+      "revId": "f428a35f92b8e9f5f8d0f57261c97fe406f75029",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "5e94b93a_c24c0118",
+        "filename": "changelogs/5.11.2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 9,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-09-25T12:59:46Z",
+      "side": 1,
+      "message": "I copied in a couple",
+      "parentUuid": "a8c95838_2678e188",
       "revId": "f428a35f92b8e9f5f8d0f57261c97fe406f75029",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
@@ -86,6 +157,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e98509cc_38e00b31",
+        "filename": "changelogs/5.11.2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-09-25T12:59:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "f9467e87_91a568c3",
+      "revId": "f428a35f92b8e9f5f8d0f57261c97fe406f75029",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "6b7bf0f6_a1f361cb",
@@ -99,6 +188,24 @@
       "writtenOn": "2024-09-25T12:08:33Z",
       "side": 1,
       "message": "```suggestion\n* Firewall: Fix blocking of updated apps that newly have INTERNET permission (#2657)\n```",
+      "revId": "f428a35f92b8e9f5f8d0f57261c97fe406f75029",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "12adfc0b_6c8a86e0",
+        "filename": "changelogs/5.11.2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 12,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-09-25T12:59:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "6b7bf0f6_a1f361cb",
       "revId": "f428a35f92b8e9f5f8d0f57261c97fe406f75029",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
@@ -120,6 +227,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b9448a8a_2beef9a5",
+        "filename": "changelogs/5.11.2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-09-25T12:59:46Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "a51b59ad_26b55110",
+      "revId": "f428a35f92b8e9f5f8d0f57261c97fe406f75029",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "317b0d76_3aa0b76b",
@@ -133,6 +258,24 @@
       "writtenOn": "2024-09-25T12:08:33Z",
       "side": 1,
       "message": "```suggestion\n* Work Hours: Fix stopping of work profile on second reminder (#2462)\n```",
+      "revId": "f428a35f92b8e9f5f8d0f57261c97fe406f75029",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ccd24e7b_21f92d00",
+        "filename": "changelogs/5.11.2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2024-09-25T12:59:46Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "317b0d76_3aa0b76b",
       "revId": "f428a35f92b8e9f5f8d0f57261c97fe406f75029",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
