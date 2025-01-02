@@ -14,8 +14,8 @@
 ## Logs (if available, they make fixing much easier)
 
 ```
-(Logs can contain sensitive info, you can also email to [bugreports@calyxos.org](mailto:bugreports@calyxos.org) - please mention
-your gitlab username and some details about the issue)
+(Logs can contain sensitive info. You may instead wish to include them in a separate confidential
+issue. See the [bug reporting guide](https://calyxos.org/docs/guide/bug-reporting/) for more info.)
 ```
 
 ## Screenshots (if any)
