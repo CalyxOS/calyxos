@@ -13,6 +13,10 @@
 Notes:
 
 Devices:
+* [ ] comet | Pixel 9 Pro Fold
+* [ ] komodo | Pixel 9 Pro XL
+* [ ] caiman | Pixel 9 Pro
+* [ ] tokay | Pixel 9
 * [ ] akita | Pixel 8a
 * [ ] husky | Pixel 8 Pro
 * [ ] shiba | Pixel 8
@@ -30,16 +34,11 @@ Devices:
 * [ ] sunfish | Pixel 4a
 * [ ] coral | Pixel 4 XL
 * [ ] flame | Pixel 4
-* [ ] bonito | Pixel 3a XL
-* [ ] sargo | Pixel 3a
-* [ ] crosshatch | Pixel 3 XL
-* [ ] blueline | Pixel 3
 * [ ] FP5 | Fairphone 5
 * [ ] FP4 | Fairphone 4
 * [ ] devon | moto g32
 * [ ] hawao | moto g42
 * [ ] rhode | moto g52
-* [ ] axolotl | SHIFT6mq
 
 Checklists:
 
