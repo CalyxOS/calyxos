@@ -89,11 +89,12 @@ Test production build before release:
 Release:
 * [ ] Update 'releases' repo
 * [ ] Push changelog to 'release' repo
-* [ ] Bump to **-security-express6**
-* [ ] Bump to **-beta6**
-* [ ] Bump to **-stable6**
+* [ ] Bump to **-security-express7**
+* [ ] Bump to **-beta7**
+* [ ] Bump to **-stable7**
 * [ ] Bump to **-factory**
-* [ ] Update website links
+* [ ] Update calyxos.org
+* [ ] Update calyxos-webinstall
 * [ ] Update 0xacab mirrors
 
 (This is for internal use only. You probably want a different template)
