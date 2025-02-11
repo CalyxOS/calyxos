@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e6a48515_815760c5",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2025-02-11T12:43:34Z",
+      "side": 1,
+      "message": "Not complete, but will do to avoid blocking release",
+      "revId": "23658e6be91ffa8d9db0292e0903f457998c0b97",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
