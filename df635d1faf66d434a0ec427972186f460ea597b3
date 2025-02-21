@@ -18,6 +18,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "daefc47d_40b0c2a8",
+        "filename": "changelogs/6.4.2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2025-02-21T23:53:59Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "7f74366a_a14fb60e",
+      "revId": "df635d1faf66d434a0ec427972186f460ea597b3",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "46ca21b9_2d00d620",
@@ -35,6 +53,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "b603a1de_69b96ffb",
+        "filename": "changelogs/6.4.2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2025-02-21T23:53:59Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "46ca21b9_2d00d620",
+      "revId": "df635d1faf66d434a0ec427972186f460ea597b3",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "1c7dfdd1_19ca194f",
@@ -48,6 +84,24 @@
       "writtenOn": "2025-02-21T23:38:04Z",
       "side": 1,
       "message": "Video thumbnails fix",
+      "revId": "df635d1faf66d434a0ec427972186f460ea597b3",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "429ef583_551af9ff",
+        "filename": "changelogs/6.4.2.md",
+        "patchSetId": 1
+      },
+      "lineNbr": 30,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2025-02-21T23:53:59Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "1c7dfdd1_19ca194f",
       "revId": "df635d1faf66d434a0ec427972186f460ea597b3",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
