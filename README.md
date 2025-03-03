@@ -1,6 +1,6 @@
 # calyxos
 
-Central place to hold documentation about the project
+Central place to hold documentation about the project.
 
 ## Changelogs
 
