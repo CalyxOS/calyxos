@@ -10,6 +10,13 @@
 | `otatest` build number |  |
 | `otatest2` build number |  |
 
+Schedule:
+| Release channel  | Date   | Notes |
+| ---------------- | ------ | ------ |
+| Security express |  |  |
+| Beta |  |  |
+| Stable |  | |
+
 Notes:
 
 Devices:
