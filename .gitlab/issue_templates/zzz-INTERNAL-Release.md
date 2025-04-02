@@ -38,9 +38,6 @@ Devices:
 * [ ] barbet | Pixel 5a
 * [ ] bramble | Pixel 4a (5G)
 * [ ] redfin | Pixel 5
-* [ ] sunfish | Pixel 4a
-* [ ] coral | Pixel 4 XL
-* [ ] flame | Pixel 4
 * [ ] FP5 | Fairphone 5
 * [ ] FP4 | Fairphone 4
 * [ ] devon | moto g32
