@@ -40,9 +40,13 @@ Devices:
 * [ ] redfin | Pixel 5
 * [ ] FP5 | Fairphone 5
 * [ ] FP4 | Fairphone 4
+* [ ] fogo | moto g 5G - 2024
+* [ ] bangkk | moto g84 5G
+* [ ] fogos | moto g34 5G
 * [ ] devon | moto g32
 * [ ] hawao | moto g42
 * [ ] rhode | moto g52
+* [ ] otter | SHIFTphone 8
 
 Checklists:
 
