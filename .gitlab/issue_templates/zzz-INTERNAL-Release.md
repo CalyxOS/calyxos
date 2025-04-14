@@ -20,6 +20,14 @@ Schedule:
 Notes:
 
 Devices:
+* [ ] FP5 | Fairphone 5
+* [ ] FP4 | Fairphone 4
+* [ ] fogo | moto g 5G - 2024
+* [ ] bangkk | moto g84 5G
+* [ ] fogos | moto g34 5G
+* [ ] rhode | moto g52
+* [ ] hawao | moto g42
+* [ ] devon | moto g32
 * [ ] comet | Pixel 9 Pro Fold
 * [ ] komodo | Pixel 9 Pro XL
 * [ ] caiman | Pixel 9 Pro
@@ -35,18 +43,10 @@ Devices:
 * [ ] bluejay | Pixel 6a
 * [ ] raven | Pixel 6 Pro
 * [ ] oriole | Pixel 6
+* [ ] otter | SHIFTphone 8
 * [ ] barbet | Pixel 5a
 * [ ] bramble | Pixel 4a (5G)
 * [ ] redfin | Pixel 5
-* [ ] FP5 | Fairphone 5
-* [ ] FP4 | Fairphone 4
-* [ ] fogo | moto g 5G - 2024
-* [ ] bangkk | moto g84 5G
-* [ ] fogos | moto g34 5G
-* [ ] devon | moto g32
-* [ ] hawao | moto g42
-* [ ] rhode | moto g52
-* [ ] otter | SHIFTphone 8
 
 Checklists:
 
