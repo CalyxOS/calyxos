@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "fcec2815_65433824",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2025-04-25T23:14:07Z",
+      "side": 1,
+      "message": "First iteration\n\nTODOs:\n* Better upstream changelogs\n* Improve some text\n* Issue links",
+      "revId": "47e80ac671bd4aefdc46598ba7bed1224c859398",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
