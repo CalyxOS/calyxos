@@ -28,6 +28,7 @@ Devices:
 * [ ] rhode | moto g52
 * [ ] hawao | moto g42
 * [ ] devon | moto g32
+* [ ] tegu | Pixel 9a
 * [ ] comet | Pixel 9 Pro Fold
 * [ ] komodo | Pixel 9 Pro XL
 * [ ] caiman | Pixel 9 Pro
@@ -108,4 +109,4 @@ Release:
 (This is for internal use only. You probably want a different template)
 
 /label ~zzz-INTERNAL-release
-/assign @cde
+/assign @mikeNG
