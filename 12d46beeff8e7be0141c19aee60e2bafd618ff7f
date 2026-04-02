@@ -34,6 +34,24 @@
       "parentUuid": "650b7736_c36a9cd6",
       "revId": "12d46beeff8e7be0141c19aee60e2bafd618ff7f",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1f823e91_60f5e891",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 1000206
+      },
+      "writtenOn": "2026-04-02T17:17:36Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "915bca21_3976e9a5",
+      "revId": "12d46beeff8e7be0141c19aee60e2bafd618ff7f",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
