@@ -1,0 +1,140 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "adc141d5_ed3e2fac",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1000109
+      },
+      "writtenOn": "2026-04-02T20:23:06Z",
+      "side": 1,
+      "message": "QPR?",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "89fd6a0d_997ebec1",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1000109
+      },
+      "writtenOn": "2026-04-02T20:23:06Z",
+      "side": 1,
+      "message": "What is device signed meant to mean?",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "87823bfc_08840686",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1000109
+      },
+      "writtenOn": "2026-04-02T20:23:06Z",
+      "side": 1,
+      "message": "Verified Boot only I think?",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8b76d617_10f79629",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 1000109
+      },
+      "writtenOn": "2026-04-02T20:23:06Z",
+      "side": 1,
+      "message": "Maybe considering I just had issues that I only noticed now with Wi-Fi MAC randomization not working on the older Motos, maybe that would be interesting since we care about privacy?",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8621778d_70b3c824",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1000109
+      },
+      "writtenOn": "2026-04-02T20:23:06Z",
+      "side": 1,
+      "message": "Automatic connection to a paired device?\n\nI never knew how this worked, guess it depends on the device",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "301b0353_206ce9ff",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1000109
+      },
+      "writtenOn": "2026-04-02T20:23:06Z",
+      "side": 1,
+      "message": "Refresh rate maybe? Developer settings has an option to show the current refresh rate",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b5cb62de_8fe2d641",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 1000109
+      },
+      "writtenOn": "2026-04-02T20:23:06Z",
+      "side": 1,
+      "message": "typo, photo",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "8df99a75_69ef0db7",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 1000109
+      },
+      "writtenOn": "2026-04-02T20:23:06Z",
+      "side": 1,
+      "message": "These three are dependent on stuff like Google Camera no? Maybe add a note?",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
