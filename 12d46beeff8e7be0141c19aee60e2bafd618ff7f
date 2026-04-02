@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "650b7736_c36a9cd6",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 2
+      },
+      "lineNbr": 87,
+      "author": {
+        "id": 1000206
+      },
+      "writtenOn": "2026-04-02T15:25:35Z",
+      "side": 1,
+      "message": "If you\u0027re talking about headphone jacks, the moto g34 5G (codename fogos) does have one. I don\u0027t know about the other CalyxOS-supported though.",
+      "revId": "12d46beeff8e7be0141c19aee60e2bafd618ff7f",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
