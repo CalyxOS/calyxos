@@ -18,6 +18,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "fbd37051_e8effa67",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1000136
+      },
+      "writtenOn": "2026-04-03T04:04:24Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "adc141d5_ed3e2fac",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "89fd6a0d_997ebec1",
@@ -31,6 +49,24 @@
       "writtenOn": "2026-04-02T20:23:06Z",
       "side": 1,
       "message": "What is device signed meant to mean?",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "46d62873_84ba6e6c",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1000136
+      },
+      "writtenOn": "2026-04-03T04:04:24Z",
+      "side": 1,
+      "message": "Is the build being tested signed / using the production CalyxOS signing keys? Seems like this is better as a checkbox.",
+      "parentUuid": "89fd6a0d_997ebec1",
       "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
@@ -52,6 +88,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "7ba89b8c_15541ff5",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 39,
+      "author": {
+        "id": 1000136
+      },
+      "writtenOn": "2026-04-03T04:04:24Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "87823bfc_08840686",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "8b76d617_10f79629",
@@ -65,6 +119,24 @@
       "writtenOn": "2026-04-02T20:23:06Z",
       "side": 1,
       "message": "Maybe considering I just had issues that I only noticed now with Wi-Fi MAC randomization not working on the older Motos, maybe that would be interesting since we care about privacy?",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "dae06335_dba508d5",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 63,
+      "author": {
+        "id": 1000136
+      },
+      "writtenOn": "2026-04-03T04:04:24Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "8b76d617_10f79629",
       "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
@@ -88,6 +160,24 @@
     {
       "unresolved": true,
       "key": {
+        "uuid": "02fd643b_4d89f6ca",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1000136
+      },
+      "writtenOn": "2026-04-03T04:04:24Z",
+      "side": 1,
+      "message": "Line 67 is meant to verify that a once configured device will be remembered and will reconnect if not manually forgotten; this can happen automatically or not. I\u0027ll change the \"automatic\" language.",
+      "parentUuid": "8621778d_70b3c824",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
         "uuid": "301b0353_206ce9ff",
         "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
         "patchSetId": 5
@@ -99,6 +189,24 @@
       "writtenOn": "2026-04-02T20:23:06Z",
       "side": 1,
       "message": "Refresh rate maybe? Developer settings has an option to show the current refresh rate",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "b1058433_a99fbda8",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1000136
+      },
+      "writtenOn": "2026-04-03T04:04:24Z",
+      "side": 1,
+      "message": "Not available for all devices, feature is known as Smooth Display; added with an asterik.",
+      "parentUuid": "301b0353_206ce9ff",
       "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
@@ -120,6 +228,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "bf954a87_b527c8e4",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 93,
+      "author": {
+        "id": 1000136
+      },
+      "writtenOn": "2026-04-03T04:04:24Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "b5cb62de_8fe2d641",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "8df99a75_69ef0db7",
@@ -133,6 +259,41 @@
       "writtenOn": "2026-04-02T20:23:06Z",
       "side": 1,
       "message": "These three are dependent on stuff like Google Camera no? Maybe add a note?",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "a5f381cc_d3b9dc9b",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 1000136
+      },
+      "writtenOn": "2026-04-03T04:04:24Z",
+      "side": 1,
+      "message": "Will modify this to check only our camera app (Photo, Video).",
+      "parentUuid": "8df99a75_69ef0db7",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "1d985bbe_f99f1654",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 5
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000136
+      },
+      "writtenOn": "2026-04-03T04:04:24Z",
+      "side": 1,
+      "message": "Expand",
       "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
