@@ -1,0 +1,72 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "2066c8a6_4e867322",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1000109
+      },
+      "writtenOn": "2026-04-10T14:12:31Z",
+      "side": 1,
+      "message": "```suggestion\n- Setup Wizard\n```",
+      "revId": "c7521ade1edde298c31af5ef7398c98123898594",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "92be02dc_e33e1980",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1000109
+      },
+      "writtenOn": "2026-04-10T14:12:31Z",
+      "side": 1,
+      "message": "```suggestion\n  - [ ] You can install apps in one click at the end of SuW```\n  \n\nSpecifying CalyxVPN here seems too specific",
+      "revId": "c7521ade1edde298c31af5ef7398c98123898594",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3eecaa05_fe05c482",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 1000109
+      },
+      "writtenOn": "2026-04-10T14:12:31Z",
+      "side": 1,
+      "message": "Android randomizes the MAC address of the device on Wi-Fi even without this option on, it\u0027s a great little privacy feature, that feature just makes it so that it\u0027s random every time, not a random one that stays the same per SSID. Without that randomization, the device is easily trackable between networks\n\n```suggestion\n- [ ] Wi-Fi MAC randomization (make sure MAC address in connection settings doesn\u0027t match the device\u0027s)```",
+      "revId": "c7521ade1edde298c31af5ef7398c98123898594",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "72786b3d_18cd9eb2",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 1000109
+      },
+      "writtenOn": "2026-04-10T14:12:31Z",
+      "side": 1,
+      "message": "Unclear to me whether this method works for testing. I tried this yesterday and it got redacted on my LineageOS device as well, and some other testing also seemed to hint that the feature may not be working as expected, other than the usual Android redaction. We might have to change our testing method for this feature",
+      "revId": "c7521ade1edde298c31af5ef7398c98123898594",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}

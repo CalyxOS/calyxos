@@ -71,6 +71,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "e97f34f1_8b8cc77e",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1000109
+      },
+      "writtenOn": "2026-04-10T14:12:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "46d62873_84ba6e6c",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "87823bfc_08840686",
@@ -176,6 +194,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "1c0b7f54_e1fc0166",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 1000109
+      },
+      "writtenOn": "2026-04-10T14:12:31Z",
+      "side": 1,
+      "message": "Acknowledged",
+      "parentUuid": "02fd643b_4d89f6ca",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "301b0353_206ce9ff",
@@ -207,6 +243,24 @@
       "side": 1,
       "message": "Not available for all devices, feature is known as Smooth Display; added with an asterik.",
       "parentUuid": "301b0353_206ce9ff",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "23ac43e1_f8fddfda",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 82,
+      "author": {
+        "id": 1000109
+      },
+      "writtenOn": "2026-04-10T14:12:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "b1058433_a99fbda8",
       "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
@@ -277,6 +331,24 @@
       "side": 1,
       "message": "Will modify this to check only our camera app (Photo, Video).",
       "parentUuid": "8df99a75_69ef0db7",
+      "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d31cfc25_7b1f1df2",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 5
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 1000109
+      },
+      "writtenOn": "2026-04-10T14:12:31Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "a5f381cc_d3b9dc9b",
       "revId": "70362207a4ccd68f5267640ab032a7b544f3217d",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
