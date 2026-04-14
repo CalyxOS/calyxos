@@ -18,6 +18,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "3df2b4b7_1bf7966c",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 41,
+      "author": {
+        "id": 1000136
+      },
+      "writtenOn": "2026-04-14T21:14:30Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "2066c8a6_4e867322",
+      "revId": "c7521ade1edde298c31af5ef7398c98123898594",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "92be02dc_e33e1980",
@@ -31,6 +49,24 @@
       "writtenOn": "2026-04-10T14:12:31Z",
       "side": 1,
       "message": "```suggestion\n  - [ ] You can install apps in one click at the end of SuW```\n  \n\nSpecifying CalyxVPN here seems too specific",
+      "revId": "c7521ade1edde298c31af5ef7398c98123898594",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f9f2931d_38972f9c",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 48,
+      "author": {
+        "id": 1000136
+      },
+      "writtenOn": "2026-04-14T21:14:30Z",
+      "side": 1,
+      "message": "Fix applied.",
+      "parentUuid": "92be02dc_e33e1980",
       "revId": "c7521ade1edde298c31af5ef7398c98123898594",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
@@ -52,6 +88,24 @@
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     },
     {
+      "unresolved": false,
+      "key": {
+        "uuid": "21f8c844_b43c227e",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 100,
+      "author": {
+        "id": 1000136
+      },
+      "writtenOn": "2026-04-14T21:14:30Z",
+      "side": 1,
+      "message": "Right, so when this feature is enabled, the device should give a random MAC address every time theres a connection, whether to a new network or not. It\u0027s already a bit confusing because of the overly technical language (which was because this was pulled out of Developer Settings). See suggested string name change here: https://review.calyxos.org/c/CalyxOS/platform_packages_apps_Settings/+/44962/comments/2c079624_941cfa49\n\nThat being said, I\u0027m trying to keep the instructions for the testing outside this checklist. In parenthesis, I\u0027m only including the location of the setting. I will keep it as is for now.",
+      "parentUuid": "3eecaa05_fe05c482",
+      "revId": "c7521ade1edde298c31af5ef7398c98123898594",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
       "unresolved": true,
       "key": {
         "uuid": "72786b3d_18cd9eb2",
@@ -65,6 +119,24 @@
       "writtenOn": "2026-04-10T14:12:31Z",
       "side": 1,
       "message": "Unclear to me whether this method works for testing. I tried this yesterday and it got redacted on my LineageOS device as well, and some other testing also seemed to hint that the feature may not be working as expected, other than the usual Android redaction. We might have to change our testing method for this feature",
+      "revId": "c7521ade1edde298c31af5ef7398c98123898594",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f8eca3eb_b5a0b7ca",
+        "filename": ".gitlab/issue_templates/zzz-INTERNAL-Major-Device-Testing.md",
+        "patchSetId": 8
+      },
+      "lineNbr": 134,
+      "author": {
+        "id": 1000136
+      },
+      "writtenOn": "2026-04-14T21:14:30Z",
+      "side": 1,
+      "message": "The feature might no longer work or latest iterations broke the feature. Either way, this is a highly shared CalyxOS feature so we should test if it works on each device and notate if it\u0027s not.\n\nIf it is no longer relevant, then the discussion of keeping the feature or not (and subsequent testing) should be decided independently.",
+      "parentUuid": "72786b3d_18cd9eb2",
       "revId": "c7521ade1edde298c31af5ef7398c98123898594",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
