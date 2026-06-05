@@ -1,17 +1,11 @@
-# calyxos
+# CalyxOS
 
-Central place to hold documentation about the project
+Central place to hold project documentation and configuration.
 
 ## Changelogs
 
-The [changelogs](https://gitlab.com/calyxos/calyxos/tree/master/changelogs) directory contains changelogs for the CalyxOS builds.
+The [changelogs](https://gitlab.com/CalyxOS/calyxos/-/tree/main/changelogs) directory contains changelogs for the CalyxOS builds.
 
-The [current.md](https://gitlab.com/calyxos/calyxos/blob/master/changelogs/current.md) file will always contain the changelog for the upcoming build, and can be empty sometimes right after a release.
+## Issue templates
 
-The other files contain the changelog for that particular build.
-
-The [current.md](https://gitlab.com/calyxos/calyxos/blob/master/changelogs/current.md) file is renamed to the build number after a build is released.
-
-## wiki
-
-The [wiki](https://gitlab.com/calyxos/calyxos/wikis/home) is a good starting point and contains lots of useful information.
+The [.gitlab/issue_templates](https://gitlab.com/CalyxOS/calyxos/-/tree/main/.gitlab/issue_templates) directory contains various issue templates for our GitLab issue tracker.
