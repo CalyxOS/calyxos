@@ -87,7 +87,6 @@ Test production build before release:
 * [ ] Hotspot
 * [ ] Fingerprint scanner
 * [ ] Device sounds
-* [ ] CalyxVPN
 * [ ] F-Droid
 * [ ] Verify microG configuration if enabled (microG Settings -> Self Check)
 * [ ] Final step, test OTA updates from this build to a newer build, **-otatest** - this will be a full OTA, big download
@@ -98,13 +97,12 @@ Test production build before release:
 Release:
 * [ ] Update 'releases' repo
 * [ ] Push changelog to 'release' repo
-* [ ] Bump to **-security-express7**
-* [ ] Bump to **-beta7**
-* [ ] Bump to **-stable7**
+* [ ] Bump to **-security-express**
+* [ ] Bump to **-beta**
+* [ ] Bump to **-stable**
 * [ ] Bump to **-factory**
 * [ ] Update calyxos.org
 * [ ] Update calyxos-webinstall
-* [ ] Update 0xacab mirrors
 
 (This is for internal use only. You probably want a different template)
 
