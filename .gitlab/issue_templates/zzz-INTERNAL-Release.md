@@ -20,6 +20,7 @@ Schedule:
 Notes:
 
 Devices:
+* [ ] FP6 | Fairphone 6
 * [ ] FP5 | Fairphone 5
 * [ ] FP4 | Fairphone 4
 * [ ] fogo | moto g 5G - 2024
