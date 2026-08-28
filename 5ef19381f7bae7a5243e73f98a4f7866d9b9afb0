@@ -16,6 +16,24 @@
       "message": "Change to factory install image, FP5 ARB protections to be included.\n\nWould recommend changing \"* Update all included apps\" \u003e \"* Update included apps\" as not all apps have updates and F-droid apps are not updated.",
       "revId": "5ef19381f7bae7a5243e73f98a4f7866d9b9afb0",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d8199665_10dc7256",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2026-08-28T17:17:21Z",
+      "side": 1,
+      "message": "Done",
+      "parentUuid": "2605bf23_e0e8d2f5",
+      "revId": "5ef19381f7bae7a5243e73f98a4f7866d9b9afb0",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
