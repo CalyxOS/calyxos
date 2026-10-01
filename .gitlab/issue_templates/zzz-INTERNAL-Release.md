@@ -29,6 +29,7 @@ Devices:
 * [ ] rhode | moto g52
 * [ ] hawao | moto g42
 * [ ] devon | moto g32
+* [ ] stallion | Pixel 10a
 * [ ] tegu | Pixel 9a
 * [ ] comet | Pixel 9 Pro Fold
 * [ ] komodo | Pixel 9 Pro XL
@@ -53,6 +54,7 @@ Devices:
 Checklists:
 
 Before making new production builds:
+* [ ] Update local fdroid repository
 * [ ] Look at `repo forall -c 'if [ "`git log --oneline $PREV..HEAD`" != "" ]; then git config --get remote.gitlab.projectname; git log --oneline $PREV..HEAD; echo; fi'` to see what changed recently
 * [ ] Merge kernel ASB patches
 * [ ] Verify SPL and fingerprint
